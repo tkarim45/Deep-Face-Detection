@@ -38,12 +38,9 @@ You would need the following dependencies to run the code
 pip install -r requirements.txt
 ```
 
-### How to Label the data usnig labelme library
-
-<video controls src="assets/labelDataset.mp4" title="Title"></video>
+### How to Label the data using labelme library
 
 [Watch the video](assets/labelDataset.mp4)
-
 
 ## Contribution
 

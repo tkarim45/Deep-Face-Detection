@@ -40,6 +40,8 @@ pip install -r requirements.txt
 
 ### How to Label the data usnig labelme library
 
+<video controls src="assets/labelDataset.mp4" title="Title"></video>
+
 [Watch the video](assets/labelDataset.mp4)
 
 

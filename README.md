@@ -38,3 +38,6 @@ You would need the following dependencies to run the code
 pip install -r requirements.txt
 ```
 
+## Contribution
+
+Contributions are welcome!

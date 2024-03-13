@@ -1,4 +1,4 @@
-<h1 align="center">Deep-CNN-Classifier-with-Any-Images</h1>
+<h1 align="center">Deep Face Detection</h1>
 
 This repository contains code for deep face detection using OpenCV. It utilizes the LabelMe tool for labeling the dataset and Albumentations library for data augmentation.
 
@@ -40,7 +40,7 @@ pip install -r requirements.txt
 
 ### How to Label the data usnig labelme library
 
-<video controls src="assets/Label Dataset.mp4" title="Title">Watch the video</video>
+[![Watch the video](assets/video_preview.gif)](assets/labelDataset.mp4)
 
 ## Contribution
 

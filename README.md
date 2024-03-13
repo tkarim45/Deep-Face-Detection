@@ -40,7 +40,8 @@ pip install -r requirements.txt
 
 ### How to Label the data usnig labelme library
 
-[![Watch the video](assets/video_preview.gif)](assets/labelDataset.mp4)
+[Watch the video](assets/labelDataset.mp4)
+
 
 ## Contribution
 

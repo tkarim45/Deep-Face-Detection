@@ -1,2 +1,5 @@
-labelme
-albumentations
+OpenCV: 4.9.0
+TensorFlow: 2.16.1
+Labelme: 5.4.1
+Albumentations: 1.4.1
+NumPy: 1.26.4
